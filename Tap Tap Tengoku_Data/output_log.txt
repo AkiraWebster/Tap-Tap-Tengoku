@@ -1,0 +1,82 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Akira\Documents\School\TTT\Tap Tap Tengoku\Tap Tap Tengoku_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Akira\Documents\School\TTT\Tap Tap Tengoku\Tap Tap Tengoku_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Akira\Documents\School\TTT\Tap Tap Tengoku\Tap Tap Tengoku_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Akira\Documents\School\TTT\Tap Tap Tengoku\Tap Tap Tengoku_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Akira\Documents\School\TTT\Tap Tap Tengoku\Tap Tap Tengoku_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Akira\Documents\School\TTT\Tap Tap Tengoku\Tap Tap Tengoku_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Akira\Documents\School\TTT\Tap Tap Tengoku\Tap Tap Tengoku_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Akira\Documents\School\TTT\Tap Tap Tengoku\Tap Tap Tengoku_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.147 seconds
+Platform assembly: C:\Users\Akira\Documents\School\TTT\Tap Tap Tengoku\Tap Tap Tengoku_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Akira\Documents\School\TTT\Tap Tap Tengoku\Tap Tap Tengoku_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.521143 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.090464 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 181.
+Total: 5.771090 ms (FindLiveObjects: 0.019948 ms CreateObjectMapping: 0.016346 ms MarkObjects: 0.190614 ms  DeleteObjects: 5.543072 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.472381 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 217.
+Total: 0.174268 ms (FindLiveObjects: 0.011913 ms CreateObjectMapping: 0.006926 ms MarkObjects: 0.151827 ms  DeleteObjects: 0.002770 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.328312 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 181.
+Total: 5.335280 ms (FindLiveObjects: 0.011913 ms CreateObjectMapping: 0.007480 ms MarkObjects: 0.127723 ms  DeleteObjects: 5.187608 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.287861 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 217.
+Total: 0.177593 ms (FindLiveObjects: 0.017177 ms CreateObjectMapping: 0.008865 ms MarkObjects: 0.147671 ms  DeleteObjects: 0.003047 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.323048 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 218.
+Total: 5.519245 ms (FindLiveObjects: 0.015792 ms CreateObjectMapping: 0.006649 ms MarkObjects: 0.269853 ms  DeleteObjects: 5.226396 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.590582 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3250.
+Total: 0.625870 ms (FindLiveObjects: 0.141853 ms CreateObjectMapping: 0.037125 ms MarkObjects: 0.431377 ms  DeleteObjects: 0.014961 ms)
+
+Stonebank - The Pressure (mp3cut.net)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.387602 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 248.
+Total: 1.537664 ms (FindLiveObjects: 0.021333 ms CreateObjectMapping: 0.009974 ms MarkObjects: 0.170389 ms  DeleteObjects: 1.335136 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.388433 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 3247.
+Total: 0.594563 ms (FindLiveObjects: 0.114701 ms CreateObjectMapping: 0.028536 ms MarkObjects: 0.441074 ms  DeleteObjects: 0.009974 ms)
+
+Stonebank - The Pressure (mp3cut.net)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2630 -> priority: 1 
